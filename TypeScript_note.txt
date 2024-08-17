@@ -1,0 +1,13 @@
+Type Script
+===========
+
+* Type script is a java script running with syntax and has more methods than java script for enhanced use.
+* Type script runs wherever JS runs
+* TS is converted into JS when run( .ts --> TSC(ts compiler) --> .js --> runs in JS environment)
+* Error in TS code can be found in editor while compilation
+
+Installation
+============
+
+* execute the command in the terminal - npm install -g typescript
+* In VS code install - ESLint
